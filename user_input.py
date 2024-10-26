@@ -22,3 +22,23 @@ print("Hello ",name, " you are ", age, " years old and you live in ", location )
 # elif y < x: print('bar')
 # else: print('baz')
 
+
+# if x < y: 
+#     if x > 10: print('foo')
+
+# 'a' + 'x' if '123'.isdigit() else 'y' + 'b'
+
+
+# if (1, 2):
+# print('foo')
+
+if (1, 2): print('foo')
+
+if (1, 2):
+
+    print('foo')
+    
+if (1, 2):
+    print('foo')
+    
+    # ALOOOOO
